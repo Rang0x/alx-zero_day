@@ -1,1 +1,1 @@
-My first readme
+YES i can use GIT
